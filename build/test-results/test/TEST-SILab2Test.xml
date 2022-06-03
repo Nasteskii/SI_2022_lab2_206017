@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-03T21:05:53" hostname="DESKTOP-PORSPR1" time="0.023">
+  <properties/>
+  <testcase name="EveryStatement()" classname="SILab2Test" time="0.021"/>
+  <testcase name="EveryBranch()" classname="SILab2Test" time="0.002"/>
+  <system-out><![CDATA[Every Statement Test
+Every Branch Test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
