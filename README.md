@@ -1,6 +1,8 @@
 # SI_2022_lab2_206017
 ## Борче Настески, бр. на индекс 206017
 ### Control Flow Graph
-![CFG drawio](https://user-images.githubusercontent.com/86986540/171872115-3652eff3-cedd-4f29-bc01-eafc8b3e2a91.png)
+![CFG drawio](https://user-images.githubusercontent.com/86986540/171923570-479f3181-8ebd-4999-a824-fa5778f99fcb.png)
 ### Цикломатска комплексност
 Цикломатската комплексност за овој код е 9. Се добива со формулата E-V+2 каде E е бројот на ребра, а V е бројот на темиња. 27-20+2=9. Истото се добива ако ги изброиме предикатните јазли. 8+1=9. 
+### Тест случаи според критериумот Every Statement
+![image](https://user-images.githubusercontent.com/86986540/171923688-f609768a-6d98-464f-8822-5d647de3f2c2.png)
